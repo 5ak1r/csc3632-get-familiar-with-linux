@@ -6,6 +6,9 @@
 #include <algorithm>
 #include <vector>
 
+//known-cyber-attacks folder obtained from 
+//https://github.com/charlesmorisset/known-cyber-attacks
+
 namespace fs = std::filesystem;
 std::ofstream outfile("Compile.md");
 
